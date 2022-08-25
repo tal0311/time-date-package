@@ -1,7 +1,7 @@
 'use strict'
 
 console.log(
-  '%c get formatted date is online',
+  '%c Formatted time-date is online',
   'background: #222; color: #bada55'
 )
 
@@ -70,4 +70,3 @@ function _getTimeByDMY(type, sep = '/', time) {
 }
 
 export default getFormattedTime
-// module.exports = getFormattedTime

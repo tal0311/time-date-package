@@ -3,7 +3,7 @@
 To deploy this project run
 
 ```bash
-const formatDateTime = require('time-date-formatter')
+import getFormattedTime from './node_modules/time-date-formatter/index.js'
 ```
 
 ## Arguments
