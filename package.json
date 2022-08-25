@@ -1,11 +1,23 @@
 {
   "name": "time-date-formatter",
-  "version": "1.0.1",
-  "description": "Formatter fo date and time",
+  "version": "1.0.0",
+  "description": "will return a formatted time and date by user request",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tal0311/time-date-package.git"
+  },
+  "keywords": [
+    "Date",
+    "Time"
+  ],
   "author": "Tal Amit",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tal0311/time-date-package/issues"
+  },
+  "homepage": "https://github.com/tal0311/time-date-package#readme"
 }
